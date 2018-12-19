@@ -11,4 +11,4 @@ Usecase: Predict the game winner for "Ravens vs Chargers" on 12/22/2018 .
 
 4. The team with more positive value is expected to be win.
 
-4. Based on hashtags.ipynb , Ravens is expected to win the game.
+4. Based on hashtags.ipynb , Ravens are expected to win the game.
